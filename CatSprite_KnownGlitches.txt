@@ -1,0 +1,9 @@
+Known Glitches:
+
+Cat Sprite:
+	Scene 1:
+		1.1. RESOLVED. Can bury cat inside wall by running fast at it. (Status of opject changes, but not fast enough to fully stop animation when fast)
+
+		1.2. RESOLVED. If jumping from the exact edge of wall or from inside the wall, the cat will do a mega jump and fly high into the sky.
+
+		1.3. If cat is sitting and it jumps, it will be in the air also sitting. Could switch the cat status for walkingn for all jumps, decide on preference.
