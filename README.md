@@ -1,2 +1,2 @@
 # Campus Cat Python Game
- A game made in python using simpleGUI
+ A game made with the help of simpleGUI
